@@ -1,6 +1,3 @@
-<view class="nav">
-<view class="item">菜单1</view>
-<view class="item">菜单2</view>
-<view class="item">菜单3</view>
-<view class="item">菜单4</view>
+<view class="search">
+  <view class="searchInput">搜索</view>
 </view>
